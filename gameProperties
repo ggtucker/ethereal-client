@@ -1,0 +1,11 @@
+#---Game Properties---
+#Wed Jul 16 00:23:57 PDT 2014
+resolution_width=1366
+window_width=1366
+run_speed=6.0
+tile_size=64
+chunk_length=16
+ppm=64
+resolution_height=768
+walk_speed=4.0
+window_height=768

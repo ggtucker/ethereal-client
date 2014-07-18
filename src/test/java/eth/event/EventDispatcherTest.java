@@ -7,8 +7,9 @@ import org.junit.Test;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import eth.event.events.QuitEvent;
-import eth.event.listeners.QuitListener;
+import eth.client.event.EventDispatcher;
+import eth.client.event.events.QuitEvent;
+import eth.client.event.listeners.QuitListener;
 
 public class EventDispatcherTest {
 	
